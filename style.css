@@ -34,7 +34,7 @@ body{
 }
 .contact-box{
 	max-width: 850px;
-	min_width: 65%;
+	min_width: 550px;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
