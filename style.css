@@ -34,7 +34,7 @@ body{
 }
 .contact-box{
 	max-width: 850px;
-	min_width: 550px;
+	min_width: 650px;
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	justify-content: center;
@@ -51,7 +51,7 @@ body{
 }
 
 .right{
-	padding: 25px 40px;
+	padding: 15px 25px;
 }
 
 h2{
